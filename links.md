@@ -25,6 +25,8 @@ These commands will help you list PCI devices, view information about your CPU, 
   Site with some of C language basic syntax
 * [C Online Compiler](https://www.programiz.com/c-programming/online-compiler/){:target="_blank"} ---
   If you need C Online compiler, you can use this site!
+* [Transfer File from Local to VM Guide](https://ourblogs.aalto.fi/cloud-computing-at-aalto-university/how-to-transfer-files-between-a-local-machine-and-a-virtual-machine) ---
+   Command that might helpful for file transfer from local computer to vitual machine or vice-versa
 
 <br>
 <br>
